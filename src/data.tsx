@@ -164,35 +164,35 @@ export const constructionData = [
   {
     id: "residential",
     title: "Residential Buildings",
-    video: "public/construction/dubai-e.jpg",
+    video: "/construction/dubai-e.jpg",
     content:
       "High-quality apartments, villas, and housing projects designed with comfort, durability, and modern architecture in mind.",
   },
   {
     id: "commercial",
     title: "Commercial Towers",
-    video: "public/construction/IMG_6389.jpg",
+    video: "/construction/neom.jpg",
     content:
       "Skyscrapers, malls, and office complexes that redefine skylines and create world-class business environments.",
   },
   {
     id: "industrial",
     title: "Industrial Projects",
-    video: "public/construction/IMG_6389.jpg",
+    video: "/construction/dubai.jpg",
     content:
       "Factories, warehouses, and logistic hubs built with precision for industrial growth and efficiency.",
   },
   {
     id: "infrastructure",
     title: "Infrastructure Development",
-    video: "public/construction/IMG_6376.jpg",
+    video: "/construction/wind1.jpeg",
     content:
       "Roads, bridges, airports, and utilities that strengthen communities and connect regions.",
   },
   {
     id: "renovation",
     title: "Renovation & Remodeling",
-    video: "public/construction/IMG_6378.jpg",
+    video: "/construction/team1.jpg",
     content:
       "Revitalizing old structures into modern, functional, and sustainable spaces while maintaining structural integrity.",
   },
@@ -513,7 +513,7 @@ export const blogPosts = [
     category: "Construction & Infrastructure",
     date: "19 SEP 2025",
     link: `#`,
-    image: `/public/construction/wind1.jpeg`,
+    image: `/construction/wind1.jpeg`,
     description: `Mohanta Construction is at the forefront of shaping the skylines of Saudi Arabia. With expertise in residential, commercial, and industrial projects, we deliver high-quality construction solutions that meet international standards. Our experienced teams ensure projects are executed on time, safely, and sustainably, bringing visionary architecture to life.`,
   },
 
@@ -522,7 +522,7 @@ export const blogPosts = [
     category: "Urban Development",
     date: "10 SEP 2025",
     link: `#`,
-    image: `/public/construction/windmil1.jpg`,
+    image: `/construction/windmil1.jpg`,
     description:
       "Mohanta Construction delivers world-class construction and development services in Dubai, creating iconic residential, commercial, and mixed-use projects. By combining advanced engineering techniques, sustainable practices, and meticulous project management, we transform urban spaces into functional and aesthetically striking landmarks.",
   },

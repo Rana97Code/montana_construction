@@ -35,7 +35,7 @@ const OurClients = () => {
 
   return (
     <section className="w-full bg-gradient-to-r from-[#e0f2fe] via-[#c7d2fe] to-[#e0e7ff]
-    bg-[url('/public/construction/team-work.jpg')] bg-cover bg-center bg-no-repeat">
+    bg-[url('/construction/team-work.jpg')] bg-cover bg-center bg-no-repeat">
       <div className="max-w-screen-xl px-4 py-16 mx-auto md:py-20 lg:px-24">
         {/* Heading */}
         <div

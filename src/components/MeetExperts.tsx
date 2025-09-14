@@ -68,7 +68,7 @@ const MeetExperts = () => {
             <div className="relative">
               <img
                 className="object-cover w-full shadow-lg h-72 rounded-xl sm:h-96"
-                src="/public/construction/windmil1.jpg"
+                src="/construction/windmil1.jpg"
                 alt="NEOM Hydro Project Experts"
               />
               <div

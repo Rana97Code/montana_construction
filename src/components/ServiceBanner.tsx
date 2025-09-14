@@ -63,7 +63,7 @@ const ServiceBanner = () => {
 					data-aos-duration="1000"
 				>
 					<div className="flex items-center justify-center lg:justify-start">
-						<img src="public/construction/neom.jpg" alt="Neom" />
+						<img src="construction/neom.jpg" alt="Neom" />
 					</div>
 				</div>
 			</div>

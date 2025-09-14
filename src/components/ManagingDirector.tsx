@@ -31,7 +31,7 @@ const ManagingDirector = () => {
         {/* Images */}
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 mb-12">
           <img
-            src="public/construction/saurabh.jpg"
+            src="construction/saurabh.jpg"
             alt="Saurabh Mohanta"
             className="rounded-xl shadow-lg w-full md:w-1/2 object-cover"
             data-aos="fade-right"
@@ -73,7 +73,7 @@ const ManagingDirector = () => {
           {/* Static Image */}
           <div>
             <img
-              src="public/construction/saurabh2.jpg"
+              src="construction/saurabh2.jpg"
               alt="Project Supervision"
               className="rounded-xl shadow-lg w-full object-cover"
               data-aos="fade-left"

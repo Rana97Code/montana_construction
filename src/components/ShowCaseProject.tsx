@@ -15,7 +15,7 @@ const projects: Project[] = [
     title: "NEOM Windmill Energy Project",
     description:
       "A groundbreaking renewable energy initiative in Saudi Arabia as part of the NEOM smart city vision, powering sustainable communities.",
-    image: "/public/construction/wind1.jpeg",
+    image: "/construction/wind1.jpeg",
     tags: ["Wind Energy", "Sustainability", "Saudi Arabia"],
     timeline: "2023 - Present",
     status: "Ongoing",
@@ -25,7 +25,7 @@ const projects: Project[] = [
     title: "Dubai Offshore Wind Farm",
     description:
       "Harnessing wind power off the Dubai coast to provide clean electricity for thousands of households.",
-    image: "/public/construction/dubai.jpg",
+    image: "/construction/dubai.jpg",
     tags: ["Renewable Energy", "Infrastructure", "Dubai"],
     timeline: "2022 - 2025",
     status: "Ongoing",
@@ -35,7 +35,7 @@ const projects: Project[] = [
     title: "Saudi Desert Wind Turbines",
     description:
       "Large-scale wind farm in Saudi’s desert region contributing to the nation’s renewable energy roadmap.",
-    image: "/public/construction/wind3.jpeg",
+    image: "/construction/wind3.jpeg",
     tags: ["Green Energy", "Mega Project", "Saudi Arabia"],
     timeline: "2021 - 2024",
     status: "Ongoing",
@@ -45,7 +45,7 @@ const projects: Project[] = [
     title: "Dubai Smart City Energy Hub",
     description:
       "Part of Dubai’s smart city infrastructure, combining wind energy with solar projects for maximum efficiency.",
-    image: "/public/construction/dubai-e.jpg",
+    image: "/construction/dubai-e.jpg",
     tags: ["Smart City", "Innovation", "Dubai"],
     timeline: "Completed in 2022",
     status: "Completed",

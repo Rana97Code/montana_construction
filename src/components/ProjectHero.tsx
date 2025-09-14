@@ -46,7 +46,7 @@ const ProjectHero = () => {
           {/* Right Column - Image (Windmill for NEOM renewable project) */}
           <div className="flex justify-center md:w-1/2 md:justify-end">
             <img
-              src="/public/construction/wind1.jpeg" 
+              src="/construction/wind1.jpeg" 
               alt="NEOM Windmill Project"
               className="object-cover w-full h-auto max-w-md transition duration-500 transform shadow-2xl md:max-w-lg lg:max-w-xl rounded-xl hover:scale-105"
               loading="lazy"
